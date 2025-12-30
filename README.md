@@ -1,5 +1,5 @@
 First Name: Mr
-Last Name: Harsha
-Email ID: harshaharsha2706@gmail.com
-Github ID: 1GC24CS035
-Mobile NO: 9110618481
+Last Name: Darshan
+Email ID: darshankanni@gmail.com
+Github ID: 1GC24CS023
+Mobile NO: 9611711638
